@@ -1,0 +1,6 @@
+llama_index
+openai
+transformers
+accelerate
+gradio
+pinecone
